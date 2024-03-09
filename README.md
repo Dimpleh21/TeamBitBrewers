@@ -1,1 +1,3 @@
-#pneumonia detection
+# MedAnal
+## Description
+### Installation Instructions
