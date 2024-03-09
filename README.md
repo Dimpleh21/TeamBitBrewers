@@ -13,3 +13,13 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 - Interpretation of X-rays can be subjective to some extent, leading to differences in opinion among radiologists and healthcare providers.
 - In some cases, limited access to radiologists or specialists who are experienced in interpreting X-rays can result in delays or errors in diagnosis.
 
+# Features
+
+- ### Deep Learning Model:
+  MedAnal utilizes a state-of-the-art CNN architecture trained on a large dataset of chest X-ray images to accurately detect pneumonia.
+- ### Web Application:
+  MedAnal provides a user-friendly web interface for uploading X-ray images and obtaining real-time results.
+- ### Fast and Efficient:
+  With MedAnal, healthcare professionals can quickly analyze X-ray images and make informed decisions about patient care.
+- ### Scalable:
+  The deep learning model can be easily scaled to analyze large volumes of X-ray images, making it suitable for a wide range of healthcare settings.
