@@ -1,3 +1,3 @@
-# MedAnal
+# **MedAnal**
 ## Description
 ### Installation Instructions
