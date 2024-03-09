@@ -23,3 +23,15 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
   With MedAnal, healthcare professionals can quickly analyze X-ray images and make informed decisions about patient care.
 - ### Scalable:
   The deep learning model can be easily scaled to analyze large volumes of X-ray images, making it suitable for a wide range of healthcare settings.
+
+# Getting Started
+# How To Use?
+1. Upload a chest X-ray image to the web application.
+2. Click the "Analyze" button to process the image.
+3. MedAnal will analyze the image and display the results, indicating whether pneumonia is present.
+
+# Contributions
+Contributions to PneumoNet are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
+
+# Acknowledgements
+We would like to thank the developers and contributors of the deep learning frameworks and libraries used in this project, as well as the creators of the datasets used for training and evaluation.
