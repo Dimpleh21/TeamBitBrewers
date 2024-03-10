@@ -33,6 +33,7 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 3. MedAnal will analyze the image and display the results, indicating whether pneumonia is present.
 
 ![Step1](E2.png)
+![Step2](E3.png)
 
 # Contributions
 Contributions to MedAnal are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
