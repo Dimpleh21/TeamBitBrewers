@@ -6,6 +6,8 @@ Welcome to MedAnal, an innovative deep learning project that uses convolutional 
 
 # About
 Pneumonia is a common and potentially life-threatening condition that affects millions of people worldwide each year. Pneumonia is estimated to account for around 15% of all deaths of children under 5 years old, making it one of the leading causes of death in this age group. In older adults and individuals with compromised immune systems, pneumonia can also contribute significantly to mortality rates. Early and accurate diagnosis is crucial for effective treatment and patient outcomes. MedAnal leverages the power of deep learning to automate the process of pneumonia detection, enabling faster and more reliable diagnosis.
+Link for more information of the project: [Presentation](https://drive.google.com/file/d/1WQRQAqC3I8qbNXrv_SVovR2VEc9sNdvq/view?usp=sharing)
+
 
 
 ## Problems faced by a person when he gets an X-ray and struggles to understand it, or when doctors face challenges in interpreting X-ray images, several factors could be at play:
@@ -40,6 +42,7 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 ![Step1](E2.png)
 ![Step2](E3.png)
 ![Step4](E4.png)
+
 
 # Contributions
 Contributions to MedAnal are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
