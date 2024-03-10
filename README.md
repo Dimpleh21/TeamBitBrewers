@@ -1,6 +1,8 @@
 # **MedAnal-Pneumonia Detection with Deep Learning**
 
 Welcome to MedAnal, an innovative deep learning project that uses convolutional neural networks (CNNs) to analyze chest X-ray images and detect the presence of pneumonia. This project aims to assist healthcare professionals in diagnosing pneumonia more efficiently and accurately.
+![Landing Page](E1.jpg)
+
 
 # About
 Pneumonia is a common and potentially life-threatening condition that affects millions of people worldwide each year. Pneumonia is estimated to account for around 15% of all deaths of children under 5 years old, making it one of the leading causes of death in this age group. In older adults and individuals with compromised immune systems, pneumonia can also contribute significantly to mortality rates. Early and accurate diagnosis is crucial for effective treatment and patient outcomes. MedAnal leverages the power of deep learning to automate the process of pneumonia detection, enabling faster and more reliable diagnosis.
@@ -31,7 +33,7 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 3. MedAnal will analyze the image and display the results, indicating whether pneumonia is present.
 
 # Contributions
-Contributions to PneumoNet are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
+Contributions to MedAnal are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
 
 # Acknowledgements
 We would like to thank the developers and contributors of the deep learning frameworks and libraries used in this project, as well as the creators of the datasets used for training and evaluation.
