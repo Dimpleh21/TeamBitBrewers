@@ -20,12 +20,16 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 
 - ### Deep Learning Model:
   MedAnal utilizes a state-of-the-art CNN architecture trained on a large dataset of chest X-ray images to accurately detect pneumonia.
+  ![Model](E7.png)
 - ### Web Application:
   MedAnal provides a user-friendly web interface for uploading X-ray images and obtaining real-time results.
 - ### Fast and Efficient:
   With MedAnal, healthcare professionals can quickly analyze X-ray images and make informed decisions about patient care.
 - ### Scalable:
   The deep learning model can be easily scaled to analyze large volumes of X-ray images, making it suitable for a wide range of healthcare settings.
+  ![Xray_prediction1](E6.png)
+  ![Xray_prediction2](E7.png)
+  
 
 # Getting Started
 # How To Use?
