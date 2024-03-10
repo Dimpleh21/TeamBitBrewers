@@ -7,6 +7,7 @@ Welcome to MedAnal, an innovative deep learning project that uses convolutional 
 # About
 Pneumonia is a common and potentially life-threatening condition that affects millions of people worldwide each year. Pneumonia is estimated to account for around 15% of all deaths of children under 5 years old, making it one of the leading causes of death in this age group. In older adults and individuals with compromised immune systems, pneumonia can also contribute significantly to mortality rates. Early and accurate diagnosis is crucial for effective treatment and patient outcomes. MedAnal leverages the power of deep learning to automate the process of pneumonia detection, enabling faster and more reliable diagnosis.
 
+
 ## Problems faced by a person when he gets an X-ray and struggles to understand it, or when doctors face challenges in interpreting X-ray images, several factors could be at play:
 - X-ray images can be complex, with subtle shades of gray representing different tissues and structures. Understanding these nuances requires training and experience.
 - Pneumonia, for example, can present in various ways on an X-ray, depending on factors such as the stage of infection and the patient's underlying health conditions. This variability can make it challenging to diagnose accurately.
@@ -29,7 +30,7 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 # Getting Started
 # How To Use?
 1. Upload a chest X-ray image to the web application.
-2. Click the "Analyze" button to process the image.
+2. Click the "Get Started" button to get started and then drop the image to process the image.
 3. MedAnal will analyze the image and display the results, indicating whether pneumonia is present.
 
 ![Step1](E2.png)
