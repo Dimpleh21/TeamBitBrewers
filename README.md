@@ -34,6 +34,7 @@ Pneumonia is a common and potentially life-threatening condition that affects mi
 
 ![Step1](E2.png)
 ![Step2](E3.png)
+![Step4](E4.png)
 
 # Contributions
 Contributions to MedAnal are welcome! If you have ideas for improving the deep learning model, enhancing the web application, or adding new features, please feel free to submit a pull request.
